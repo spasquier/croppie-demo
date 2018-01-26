@@ -1,0 +1,12 @@
+.croppie-container {
+    width: 800px;
+    height: 450px;
+}
+
+#image100x100Base64, #image400x400Base64 {
+    display: none;
+}
+
+.warning {
+    color: #e85600;
+}
